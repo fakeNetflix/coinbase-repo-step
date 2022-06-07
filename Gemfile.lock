@@ -611,7 +611,7 @@ GEM
     faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
     highline (1.7.10)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     multipart-post (2.0.0)
     netaddr (1.5.1)
     octokit (4.10.0)
