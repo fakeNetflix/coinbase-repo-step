@@ -613,7 +613,7 @@ GEM
     highline (1.7.10)
     jmespath (1.4.0)
     multipart-post (2.0.0)
-    netaddr (1.5.1)
+    netaddr (1.5.3)
     octokit (4.10.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     parallel (1.12.1)
